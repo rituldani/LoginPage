@@ -10,7 +10,8 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url('background1.png') no-repeat;
+    background: url('bkg.jpeg') no-repeat;
+    /* background-color: cornflowerblue; */
     background-size: cover;
     background-position: center;
 }
